@@ -1,2 +1,1 @@
-# api_01_sms
-API 01 sms
+This program can send SMS to users through Twillio when users are online in VK
